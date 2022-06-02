@@ -1,5 +1,5 @@
 # Helsinki-Libraries-D3-data-viz
-This is a visualization of three Helsinki libraries made using the D3 JavaScript library
+This is a stacked bar chart visualization of three Helsinki libraries made using the D3 JavaScript library
 
 There are 2 index js files, one called harcode_index.js, and one called index.js. hardcode_index.js contains all of the data hardcoded. 
 This is so that the visualization can be tested out by running the index.html file locally in your browser with index_hardcode.js as the src. 
